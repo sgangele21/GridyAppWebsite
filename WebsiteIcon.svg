@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="341px" height="341px" viewBox="0 0 341 341" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Rectangle</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="285" y="626" width="275" height="275" rx="60"></rect>
+        <filter x="-18.0%" y="-18.0%" width="136.0%" height="136.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.142045455 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M469,610 C469,744.771519 469,813.123618 469,815.056298 C469,817.955319 500.480567,788.319751 502.343487,788.319751 C504.206407,788.319751 535.686974,817.955319 535.686974,815.056298 C535.686974,813.123618 535.686974,744.771519 535.686974,610" id="path-4"></path>
+        <filter x="-21.0%" y="-2.4%" width="130.0%" height="109.7%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="-4" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.386187287   0 0 0 0 0.0652331036   0 0 0 0 0.104340966  0 0 0 0.275815217 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Playground" transform="translate(-252.000000, -593.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <text id="Aa" opacity="0.900000036" mask="url(#mask-2)" font-family="STIXGeneral-Bold, STIXGeneral" font-size="110" font-weight="bold" letter-spacing="2.11538462" fill="#000000">
+                <tspan x="324" y="808">Aa</tspan>
+            </text>
+            <g id="Bookmark" mask="url(#mask-2)">
+                <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                <use fill="#FC0E2B" fill-rule="evenodd" xlink:href="#path-4"></use>
+            </g>
+        </g>
+    </g>
+</svg>
